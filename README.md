@@ -122,13 +122,7 @@ DB_NAME=cercamatch_db
 
 1. Conectar repositorio de GitHub
 2. Agregar variables de entorno:
-   ```env
-   DB_HOST=mysql-3946982-yeinerenrique2007-cd2e.i.aivencloud.com
-   DB_PORT=27520
-   DB_USER=avnadmin
-   DB_PASS=AVNS_D2Hom75qqeQ2uwrMicb
-   DB_NAME=cercamatch_db
-   ```
+  
 3. Desplegar
 
 ### Railway
